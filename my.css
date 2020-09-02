@@ -1,0 +1,33 @@
+body{
+font-size: medium;
+}
+    
+#outer {
+    width: 1000px;
+    height: 60em;
+    background-image: image("D:\works\download.jpg");
+    margin: 25px auto;
+}
+   
+
+#content{
+    width: 1000px;
+    height: 800px;
+    background-color: peachpuff;
+    margin: 0 auto;
+    border-radius: 10px;
+    top: 30px;
+    position: relative;
+    box-shadow:0 4px 8px 0 ;
+    font: 1em sans-serif;
+    text-emphasis-color: teal;
+
+}
+#text{
+    font-size: x-large;
+    font-weight: 200;
+    text-align: center;
+}
+#yo{
+    text-align: center;
+}
